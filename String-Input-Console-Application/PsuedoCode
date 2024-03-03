@@ -1,0 +1,17 @@
+Set numIterations to 3
+
+While numIterations is greater than 0:
+    Prompt user to enter first string
+    Read and store the first string input
+
+    Prompt user to enter second string
+    Read and store the second string input
+
+    Concatenate the first and second strings
+    Print the concatenated string to the screen
+
+    Decrement numIterations by 1
+
+End While
+
+
