@@ -1,0 +1,14 @@
+Declare integer variables value1, value2, value3
+Declare integer pointers ptr1, ptr2, ptr3
+
+Prompt the user to enter three integer values
+Read and store the three integer values in value1, value2, value3
+
+Allocate dynamic memory for ptr1, ptr2, ptr3 using new operator
+Store value1 in the memory location pointed by ptr1
+Store value2 in the memory location pointed by ptr2
+Store value3 in the memory location pointed by ptr3
+
+Display the contents of value1, value2, value3, *ptr1, *ptr2, *ptr3
+
+Release memory allocated for ptr1, ptr2, ptr3 using delete operator
